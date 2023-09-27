@@ -1,6 +1,8 @@
 package com.alexey_k;
 
 public class Main {
+
+
     public static void main(String[] args) {
         byte aByte1 = 100;
         byte aByte2 = 127;
